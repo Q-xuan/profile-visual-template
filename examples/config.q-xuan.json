@@ -1,0 +1,55 @@
+{
+  "login": "Q-xuan",
+  "name": "pengyu",
+  "line1": "做给 Agent 用的工具。",
+  "line2": "每天读什么，代码去哪找，学过的怎么留下。",
+  "meta": "Agent  ·  Harness  ·  Context  ·  rg",
+  "place": "Asia / Shanghai",
+  "cards": [
+    {
+      "title": "每日雷达",
+      "repo": "agent-horizon",
+      "note": "Harness / digest",
+      "url": "https://github.com/Q-xuan/agent-horizon"
+    },
+    {
+      "title": "术语词典",
+      "repo": "ai-shanhai",
+      "note": "Agent · Context Rot",
+      "url": "https://github.com/Q-xuan/ai-shanhai"
+    },
+    {
+      "title": "代码搜索",
+      "repo": "codefind",
+      "note": "rg × 2  ·  JSON",
+      "url": "https://github.com/Q-xuan/codefind"
+    },
+    {
+      "title": "知识回栈",
+      "repo": "recallstack",
+      "note": "FSRS / source",
+      "url": "https://github.com/Q-xuan/recallstack"
+    },
+    {
+      "title": "实时行情",
+      "repo": "AegisQuant",
+      "note": "OKX realtime",
+      "url": "https://github.com/Q-xuan/AegisQuant"
+    }
+  ],
+  "pages": [
+    {"label": "每日雷达", "url": "https://q-xuan.github.io/agent-horizon/"},
+    {"label": "AI 山海经", "url": "https://q-xuan.github.io/ai-shanhai/"}
+  ],
+  "also": [
+    {"label": "Axiom", "url": "https://github.com/Q-xuan/Axiom"},
+    {"label": "SpiritVale-Community-ZH", "url": "https://github.com/Q-xuan/SpiritVale-Community-ZH"}
+  ],
+  "blurbs": {
+    "agent-horizon": "**agent-horizon** — [daily digest](https://q-xuan.github.io/agent-horizon/)。给 Agent / Harness 工程师的双语日报。",
+    "ai-shanhai": "**ai-shanhai** — [AI 山海经](https://q-xuan.github.io/ai-shanhai/)。把 Agent、Harness、Context Rot 这些词讲清楚。",
+    "codefind": "**codefind** — 给 Agent 用的搜索。最多两次 `rg`，回 JSON。",
+    "recallstack": "**recallstack** — 回栈。用 FSRS 复习，没源码引用就不算。",
+    "AegisQuant": "**AegisQuant** — OKX 实时行情台，只看盘，不下单。"
+  }
+}
