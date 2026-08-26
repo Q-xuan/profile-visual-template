@@ -1,0 +1,54 @@
+{
+  "login": "YOUR_GITHUB_LOGIN",
+  "name": "your-name",
+  "line1": "做给 Agent 用的工具。",
+  "line2": "每天读什么，代码去哪找，学过的怎么留下。",
+  "meta": "Agent  ·  Harness  ·  Context  ·  rg",
+  "place": "Asia / Shanghai",
+  "cards": [
+    {
+      "title": "每日雷达",
+      "repo": "your-radar",
+      "note": "Harness / digest",
+      "url": "https://github.com/YOUR_GITHUB_LOGIN/your-radar"
+    },
+    {
+      "title": "术语词典",
+      "repo": "your-glossary",
+      "note": "Agent · Context Rot",
+      "url": "https://github.com/YOUR_GITHUB_LOGIN/your-glossary"
+    },
+    {
+      "title": "代码搜索",
+      "repo": "your-cli",
+      "note": "rg × 2  ·  JSON",
+      "url": "https://github.com/YOUR_GITHUB_LOGIN/your-cli"
+    },
+    {
+      "title": "知识回栈",
+      "repo": "your-recall",
+      "note": "FSRS / source",
+      "url": "https://github.com/YOUR_GITHUB_LOGIN/your-recall"
+    },
+    {
+      "title": "实时行情",
+      "repo": "your-console",
+      "note": "OKX realtime",
+      "url": "https://github.com/YOUR_GITHUB_LOGIN/your-console"
+    }
+  ],
+  "pages": [
+    {"label": "每日雷达", "url": "https://YOUR_GITHUB_LOGIN.github.io/your-radar/"},
+    {"label": "术语词典", "url": "https://YOUR_GITHUB_LOGIN.github.io/your-glossary/"}
+  ],
+  "also": [
+    {"label": "another-wip", "url": "https://github.com/YOUR_GITHUB_LOGIN/another-wip"}
+  ],
+  "blurbs": {
+    "your-radar": "**your-radar** — 给 Agent / Harness 工程师的双语日报。",
+    "your-glossary": "**your-glossary** — 把 Agent、Harness、Context Rot 这些词讲清楚。",
+    "your-cli": "**your-cli** — 给 Agent 用的搜索。最多两次 `rg`，回 JSON。",
+    "your-recall": "**your-recall** — 用 FSRS 复习，没源码引用就不算。",
+    "your-console": "**your-console** — 实时行情台，只看盘，不下单。"
+  }
+}
